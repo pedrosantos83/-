@@ -1,0 +1,46 @@
+.app{
+  font-family: 'Roboto', sans-serif;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+h1{
+  font-weight: 700;
+}
+
+h2{
+  font-weight: 500;
+}
+
+
+// body 
+
+  // background-color: #b0daff;
+  // margin: 50px;
+  // padding: 30px;
+
+
+
+.title {
+  color: white;
+
+  width: 500px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+}
+.card-content {
+
+  
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+}
+
+
